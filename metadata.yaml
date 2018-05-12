@@ -1,4 +1,5 @@
 _repo: Paaskyisen-Pakinat-Kertomia-kiehkurainen-Suomen-kielta-oppivaisten-hytodyksi_47724
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,7 +9,12 @@ contributor:
       deathdate: 1867
       gutenberg_agent_id: '39362'
       url: http://www.gutenberg.org/2009/agents/39362
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47724#Paaskyisen-Pakinat-Kertomia-kiehkurainen-Suomen-kielta-oppivaisten-hytodyksi
 gutenberg_issued: '2014-12-20'
 gutenberg_type: Text
 identifiers:
